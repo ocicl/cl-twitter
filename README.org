@@ -1,0 +1,10 @@
+* cl-twitter
+
+cl-twitter : Common Lisp Client for Twitter
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fons/cl-twitter.git   |
+| commit  | 6a72291  |
+| systems | cl-twitter |
+|---------+-------------------------------------------|
+
